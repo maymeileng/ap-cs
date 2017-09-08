@@ -145,7 +145,7 @@ public class Flag extends JFrame {
 	
 	private void getInnerPoints(int[] x_points, int[] y_points, double radius2, double star_x, double star_y) {
 		for (int i = 5; i < 10; i++) {
-			//Assigns the inner x-points of the star
+			//Assign the inner x-points of the star
 			x_points[i] = (int) Math.round(radius2*Math.cos(((2*Math.PI*i)/5) + 3*Math.PI/2 + Math.PI/5)) + (int)star_x;
 			//Assigns the inner y-points of the star
 			y_points[i] = (int) Math.round(radius2*Math.sin(((2*Math.PI*i)/5) + 3*Math.PI/2 + Math.PI/5)) + (int)star_y;
