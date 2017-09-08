@@ -20,7 +20,7 @@ three different methods: stripes, rectangle, and stars. I based the size of
 each shape off of the width and height so that they are customizable. I made 
 helper methods for the drawStars method.
 
-Challenges: My major challenge was drawing the stars. I struggled with finding
+Major challenges: My major challenge was drawing the stars. I struggled with finding
 the correct equation to determine the star's coordinates, and also getting 
 those coordinates in the correct order so that the fillPolygon method would
 fill in the star correctly. After resolving that, another challenge I faced was
