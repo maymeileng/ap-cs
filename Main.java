@@ -6,5 +6,4 @@ public class Main {
 		f.setDefaultCloseOperation(f.EXIT_ON_CLOSE);
 		f.setVisible(true);
 	}
-	
 }
