@@ -38,7 +38,7 @@ public class Background extends JFrame{
 				gr.drawRect(11*30+50, 50+i*30, width, height);
 			}
 			
-			//create 20 random fence on the interior
+			//create 20 random fences on the interior
 			int ranx[] = new int[20];
 			int rany[] = new int[20];
 			for (int i = 0; i < 20; i++){
