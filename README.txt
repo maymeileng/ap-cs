@@ -1,4 +1,4 @@
-Progress Report #2: (this is not a readme that fulfills the documentation standard because I am not officially
+Progress Report #2: (This is not a readme that fulfills the documentation standard because I am not officially
 turning in the project yet) So far, I have accomplished creating the outer permanent fences, and also the 20
 randomly places interior fences. I have also created 12 randomly placed mhos. I am currently trying to figure out
 a way to structure the code or write a separate method that can be implemented so that the interior fences and 
