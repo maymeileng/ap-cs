@@ -2,8 +2,6 @@ package week16;
 
 import javax.xml.soap.Node;
 
-//import java.util.*;
-
 public class BST<T extends Comparable<T>> {
 	private Integer datum;
 	private BST<Integer> left;   
