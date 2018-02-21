@@ -12,7 +12,7 @@ public class Randp {
 		System.out.println(rand.nextInt());
 		System.out.println(rand.nextInt());
 		System.out.println(rand.nextInt());
-		
+		System.out.println(rand.nextInt());		
 	}
 	
     private int[] nums;
