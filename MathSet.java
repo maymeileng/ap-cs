@@ -5,7 +5,7 @@ import java.util.TreeSet;
 
 public class MathSet<T> extends TreeSet<T> implements Set<T> {
 	
-	//adds elements from one object to another
+	//add elements from one object to another
     public MathSet<T> union(MathSet<T> that) {
         MathSet<T> retval = new MathSet<T>();
         retval.addAll(this);
